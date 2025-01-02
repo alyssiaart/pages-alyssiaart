@@ -4,3 +4,8 @@ author: "Alyssia"
 plugins:
   - jekyll-include-cache
 remote_theme: mmistakes/minimal-mistakes
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+  
