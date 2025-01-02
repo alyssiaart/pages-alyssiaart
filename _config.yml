@@ -1,4 +1,6 @@
 title: "Alyssia Art"
 description: "A new art project by Alyssia"
 author: "Alyssia"
-theme: minima
+plugins:
+  - jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes
