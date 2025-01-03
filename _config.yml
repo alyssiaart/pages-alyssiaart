@@ -8,7 +8,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 url: "https://alyssiaart.github.io/"
 #baseurl: "/so-simple-theme"   # not sure this is correct
-baseurl: "/pages-alyssiaart"
+baseurl: ""
 #defaults:
 #  - scope:
 #      path: "_posts"
