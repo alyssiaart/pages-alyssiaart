@@ -7,12 +7,11 @@ remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/dark.css"
 locale: en-US
 url: "https://alyssiaart.github.io"
-#baseurl: "/so-simple-theme"   # not sure this is correct
 baseurl: "/pages-alyssiaart/"
-#defaults:
-#  - scope:
-#      path: "_posts"
-#      type: posts
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
 search_full_content: false
 google_fonts:
   - name: "Source Sans Pro"
