@@ -2,7 +2,7 @@
 title: "Launching a new project"
 date: 2025-01-01
 tags: cyberpunk
-categories: update
+category: update
 ---
 
 
