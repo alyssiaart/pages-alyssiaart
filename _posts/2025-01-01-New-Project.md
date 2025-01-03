@@ -1,5 +1,5 @@
 ---
-title "Launching-a-new-project"
+title: "Launching-a-new-project"
 date: 2025-01-01
 ---
 
