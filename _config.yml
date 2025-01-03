@@ -8,8 +8,4 @@ skin: "/assets/css/skins/dark.css"
 site.locale: en-US
 url: "https://alyssiaart.github.io/pages-alyssiaart/"
 baseurl: "/so-simple-theme"
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-  
+
