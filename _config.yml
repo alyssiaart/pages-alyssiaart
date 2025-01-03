@@ -4,6 +4,10 @@ author: "Alyssia"
 plugins:
   - jekyll-include-cache
 remote_theme: mmistakes/so-simple-theme@3.2.0
+skin: "/assets/css/skins/dark.css"
+site.locale: en-US
+url: "https://alyssiaart.github.io/pages-alyssiaart/"
+baseurl: "/so-simple-theme"
 defaults:
   - scope:
       path: "_posts"
