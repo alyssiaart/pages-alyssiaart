@@ -8,6 +8,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 url: "https://alyssiaart.github.io"
 baseurl: "/pages-alyssiaart/"
+logo: "/images/flowerpot-200x200.png"
 defaults:
   - scope:
       path: "_posts"
