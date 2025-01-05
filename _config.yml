@@ -9,7 +9,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 # url: "https://alyssiaart.github.io"
 url: "https://alyssia.art"
-baseurl: "/pages-alyssiaart/"
+#baseurl: "/pages-alyssiaart/"
 logo: "/images/flowerpot-200x200.png"
 defaults:
   - scope:
