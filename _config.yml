@@ -7,9 +7,9 @@ plugins:
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-# url: "https://alyssiaart.github.io"
+# url: "https://alyssiaart.github.io"   # original name
 url: "https://alyssia.art"
-#baseurl: "/pages-alyssiaart/"
+#baseurl: "/pages-alyssiaart/"   # not required after move to custom domain
 logo: "/images/flowerpot-200x200.png"
 defaults:
   - scope:
@@ -23,3 +23,5 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+timezone: America/Denver
+google_analytics: "G-YR1PP632YL"
