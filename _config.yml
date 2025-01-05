@@ -3,10 +3,12 @@ description: "A new art project by Alyssia"
 author: "Alyssia"
 plugins:
   - jekyll-include-cache
+  - jekyll-seo-tag
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-url: "https://alyssiaart.github.io"
+# url: "https://alyssiaart.github.io"
+url: "https://alyssia.art"
 baseurl: "/pages-alyssiaart/"
 logo: "/images/flowerpot-200x200.png"
 defaults:

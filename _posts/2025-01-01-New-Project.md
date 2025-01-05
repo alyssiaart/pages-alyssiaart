@@ -7,7 +7,7 @@ tags:
   - pixelart
   - community
 date: 2025-01-01
-title: Launching a New Pixelated Adventure 🚀
+title: Launching a New Pixelated Adventure
 ---
 
 
